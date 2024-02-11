@@ -1116,44 +1116,44 @@ audio {
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
-	-webkit-transform: rotate(30deg);
+	-webkit-transform: rotate(10deg);
 	-moz-animation: balloons_rotate_one linear 10s infinite;
-	-moz-transform: rotate(30deg);
+	-moz-transform: rotate(10deg);
 	-o-animation: balloons_rotate_one linear 10s infinite;
-	-o-transform: rotate(30deg);
+	-o-transform: rotate(10deg);
 	-ms-animation: balloons_rotate_one linear 10s infinite;
-	-ms-transform: rotate(30deg);
+	-ms-transform: rotate(10deg);
 	animation: balloons_rotate_one linear 10s infinite;
-	transform: rotate(30deg);
+	transform: rotate(10deg);
 }
 @-webkit-keyframes balloons_rotate_one {
 	0% {
-		-webkit-transform: rotate(30deg);
+		-webkit-transform: rotate(10deg);
 	}
 	50% {
-		-webkit-transform: rotate(-30deg);
+		-webkit-transform: rotate(-10deg);
 	}
 	100% {
-		-webkit-transform: rotate(30deg);
+		-webkit-transform: rotate(10deg);
 	}
 }
 @-moz-keyframes balloons_rotate_one {
 	0% {
-		-moz-transform: rotate(30deg);
+		-moz-transform: rotate(10deg);
 	}
 	50% {
-		-moz-transform: rotate(-30deg);
+		-moz-transform: rotate(-10deg);
 	}
 	100% {
-		-moz-transform: rotate(30deg);
+		-moz-transform: rotate(10deg);
 	}
 }
 @-o-keyframes balloons_rotate_one {
 	0% {
-		-o-transform: rotate(30deg);
+		-o-transform: rotate(10deg);
 	}
 	50% {
-		-o-transform: rotate(-30deg);
+		-o-transform: rotate(-10deg);
 	}
 	100% {
 		-o-transform: rotate(30deg);
@@ -1161,13 +1161,13 @@ audio {
 }
 @-ms-keyframes balloons_rotate_one {
 	0% {
-		-ms-transform: rotate(30deg);
+		-ms-transform: rotate(10deg);
 	}
 	50% {
-		-ms-transform: rotate(-30deg);
+		-ms-transform: rotate(-10deg);
 	}
 	100% {
-		-ms-transform: rotate(30deg);
+		-ms-transform: rotate(10deg);
 	}
 }
 @keyframes balloons_rotate_one {
@@ -1268,7 +1268,7 @@ audio {
 	margin-top: 50px;
 }
 .message {
-	margin-top: 200px;
+	margin-top: 400px;
 	display: none;
 }
 .message p {
